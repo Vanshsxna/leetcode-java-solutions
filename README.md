@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0058-length-of-last-word) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0169-majority-element) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
