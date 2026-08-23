@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1927-sum-game](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0013-roman-to-integer) |
+| [1927-sum-game](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Vanshsxna/leetcode-java-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
